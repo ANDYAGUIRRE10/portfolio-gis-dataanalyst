@@ -10,6 +10,3 @@ Este espacio es mi portafolio: acá voy subiendo proyectos, experimentos y flujo
 ## 📁 Proyectos y trabajos que he realizado
 
 ### Automatización de planillas CSV → puntos georreferenciados GPKG
-🎥 Video demostrativo
-
-[https://github.com/ANDYAGUIRRE10/portfolio-gis-dataanalyst/blob/main/graphmodel_example.mp4]
