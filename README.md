@@ -7,7 +7,8 @@
 ### 1. Automatización de planillas CSV → puntos georreferenciados GPKG
 🎥 Video demostrativo
 
-[]
+[https://github.com/ANDYAGUIRRE10/portfolio-gis-dataanalyst/blob/main/graphmodel_example.mp4]
+
 📌 Contexto
 
 Este proyecto surge a partir de la necesidad de georreferenciar grandes volúmenes de datos provenientes de planillas Excel utilizadas en relevamientos de infraestructura vial (alcantarillas, señalización, iluminación, etc.). Cada planilla presentaba formatos distintos, errores de tipeo, columnas con nombres inconsistentes y datos faltantes, lo que hacía imposible una automatización directa sin una etapa previa de criterio humano.
@@ -15,8 +16,11 @@ Este proyecto surge a partir de la necesidad de georreferenciar grandes volúmen
 🧠 La importancia del criterio humano antes de automatizar
 
 Automatizar sin entender los datos es un error común. En este proyecto, el primer paso no fue programar, sino analizar críticamente cada planilla:
+
     ¿Cómo están escritas las coordenadas? (grados decimales, grados/minutos/segundos, separadores con coma o punto)
+    
     ¿Qué columnas representan realmente la ubicación? (algunas planillas tenían múltiples columnas de coordenadas, otras solo una)
+    
     ¿Qué tipo de objeto se está relevando? (alcantarilla, señal, luminaria, etc.)
     ¿Qué campos son obligatorios y cuáles opcionales a nuestro interés?
     ¿Qué hacer con los errores de tipeo o valores atípicos?
