@@ -9,6 +9,6 @@ Este espacio es mi portafolio: acá voy subiendo proyectos, experimentos y flujo
 
 ## 📁 Proyectos y trabajos que he realizado
 
-### Automatización de planillas CSV → puntos georreferenciados GPKG
-- # Cartografías de diversas temáticas y objetivos varias para agrupaciones socio-políticas e investigadores
+-Automatización de planillas CSV → puntos georreferenciados GPKG
+-Cartografías de diversas temáticas y objetivos varias para agrupaciones socio-políticas e investigadores
 
