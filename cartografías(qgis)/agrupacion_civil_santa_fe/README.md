@@ -14,15 +14,12 @@ Mi rol consistió en:
 
 ## 🗺️ Mapas incluidos
 
-- **Claridad visual:** colores contrastantes, leyendas simples, títulos comprensibles.
-- **Escala adecuada:** que se vea la ciudad completa o el sector relevante, sin saturar de información.
-- **Contexto:** cada map
--`recoleccion_residuos.pdf`: Recolección de basura | Puntos de recolección de residuos reciclables y división de la ciudad en dos sectores según las empresas prestadoras del servicio.
--`centros_salud_clubes.pdf`: Salud y deporte | Centros de atención médica y clubes, para analizar su distribución y accesibilidad. |
--`vecinal_ejemplo.pdf`: Vecinal (ejemplo) | Mapa de ejemplo para una vecinal específica, mostrando sus límites y puntos de interés. |
--`vecinales_santa_fe.pdf`: Vecinales | Mapa general de todas las vecinales de la ciudad de Santa Fe. |
--`reorganizacion_regiones.pdf`: Propuesta de gestión | Nueva propuesta de reorganización de las regiones de administración de la ciudad. |
--`iglesias_catolicas.pdf`: Iglesias y áreas | Ubicación de iglesias católicas y sus áreas de influencia en la ciudad. |
+- `recoleccion_residuos.pdf`: Recolección de basura | Puntos de recolección de residuos reciclables y división de la ciudad en dos sectores según las empresas prestadoras del servicio.
+-`reorganizacion_regiones.pdf`: Propuesta de gestión | Nueva propuesta de reorganización de las regiones de administración de la ciudad.
+`iglesias_catolicas.pdf`: Iglesias y áreas | Ubicación de iglesias católicas y sus áreas de influencia en la ciudad.
+-`centros_salud_clubes.pdf`: Salud y deporte | Centros de atención médica y clubes, para analizar su distribución y accesibilidad.
+-`vecinal_ejemplo.pdf`: Vecinal (ejemplo) | Mapa de ejemplo para una vecinal específica, mostrando sus límites y puntos de interés.
+-`vecinales_santa_fe.pdf`: Vecinales | Mapa general de todas las vecinales de la ciudad de Santa Fe.
 
 ---
 
