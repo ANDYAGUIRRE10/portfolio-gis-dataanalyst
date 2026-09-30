@@ -15,7 +15,8 @@ Mi rol consistió en:
 ## 🗺️ Mapas incluidos
 
 - `recoleccion_residuos.pdf`: Recolección de basura | Puntos de recolección de residuos reciclables y división de la ciudad en dos sectores según las empresas prestadoras del servicio.
--`reorganizacion_regiones.pdf`: Propuesta de gestión | Nueva propuesta de reorganización de las regiones de administración de la ciudad.
+- `reorganizacion_regiones.pdf`: Propuesta de gestión | Nueva propuesta de reorganización de las regiones de administración de la ciudad.
+-
 `iglesias_catolicas.pdf`: Iglesias y áreas | Ubicación de iglesias católicas y sus áreas de influencia en la ciudad.
 -`centros_salud_clubes.pdf`: Salud y deporte | Centros de atención médica y clubes, para analizar su distribución y accesibilidad.
 -`vecinal_ejemplo.pdf`: Vecinal (ejemplo) | Mapa de ejemplo para una vecinal específica, mostrando sus límites y puntos de interés.
