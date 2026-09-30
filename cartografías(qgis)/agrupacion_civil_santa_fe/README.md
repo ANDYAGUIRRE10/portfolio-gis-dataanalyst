@@ -14,6 +14,9 @@ Mi rol consistió en:
 
 ## 🗺️ Mapas incluidos
 
+- **Claridad visual:** colores contrastantes, leyendas simples, títulos comprensibles.
+- **Escala adecuada:** que se vea la ciudad completa o el sector relevante, sin saturar de información.
+- **Contexto:** cada map
 -`recoleccion_residuos.pdf`: Recolección de basura | Puntos de recolección de residuos reciclables y división de la ciudad en dos sectores según las empresas prestadoras del servicio.
 -`centros_salud_clubes.pdf`: Salud y deporte | Centros de atención médica y clubes, para analizar su distribución y accesibilidad. |
 -`vecinal_ejemplo.pdf`: Vecinal (ejemplo) | Mapa de ejemplo para una vecinal específica, mostrando sus límites y puntos de interés. |
