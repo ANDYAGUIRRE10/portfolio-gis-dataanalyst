@@ -10,7 +10,7 @@ Cada mapa surge de un proceso de colaboración con el/la autor/a de la tesis, do
 ## 🗺️ Mapas incluidos
 
 
-| `mapas 0 a mapa 4` | Mapa elaborado para la tesis de Candela ...., orientado a representar [temática general sin entrar en detalles]. | [Enlace a la tesis, si está disponible públicamente] |
+| `map0 - map3` | Mapa elaborado para la tesis de Candela ...., orientado a representar [temática general sin entrar en detalles]. | [Enlace a la tesis, si está disponible públicamente] |
 
 ---
 
