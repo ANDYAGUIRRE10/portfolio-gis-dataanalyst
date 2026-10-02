@@ -16,7 +16,7 @@ Cada mapa surge de un proceso de colaboración con el/la autor/a de la tesis, do
 
 ## 🎯 Enfoque de trabajo
 
-Cada tesis tiene sus propias necesidades cartográficas (mostrar una distribución, analizar relaciones espaciales, ubicar el área de estudio, etc.). Por eso, no hay una receta única, cada mapa se (co)diseña a medida.
+Cada tesis tiene sus propias necesidades cartográficas (mostrar una distribución, analizar relaciones espaciales, ubicar el área de estudio y actores, etc.). Por eso, no hay una receta única, cada mapa se (co)diseña a medida.
 
 El proceso general suele ser:
 
