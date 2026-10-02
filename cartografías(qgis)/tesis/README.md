@@ -10,7 +10,7 @@ Cada mapa surge de un proceso de colaboración con el/la autor/a de la tesis, do
 ## 🗺️ Mapas incluidos
 
 
-| `map0 - map3` | Mapa elaborado para la tesis de Candela ...., orientado a representar [temática general sin entrar en detalles]. | [Enlace a la tesis, si está disponible públicamente] |
+- "tesis1" -> Mapas elaborado para la tesis de Candelaria Sánchez (2026). "'Me quedo acá' Territorios y socializaciones juveniles en el B. Las Lomas de la ciudad de Santa Fe (2007-2019)" |(https://1drv.ms/b/c/f50c08e77e92ba6c/IQDgpeBriaYyQIkj1hfOBqYoAY3noHWRx87rvmHufykBaWc)
 
 ---
 
