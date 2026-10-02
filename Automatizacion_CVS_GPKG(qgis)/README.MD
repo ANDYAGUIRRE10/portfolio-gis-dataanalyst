@@ -44,20 +44,16 @@ Carga los atributos asociados a cada punto (tipo de objeto, ruta, observaciones,
 
 ## 💡 Aprendizaje clave ##
 
-La automatización no reemplaza el criterio humano, lo potencia. Antes de crear un modelo, es fundamental comprender:
+- La automatización no reemplaza el criterio humano, lo potencia. Antes de crear un modelo, es fundamental comprender:
+- Cómo están escritos los datos.
+- Qué se quiere representar.
+- Qué variaciones existen entre fuentes.
+- Ese análisis previo es lo que permite que el modelo sea robusto, flexible y útil en contextos reales donde los datos nunca vienen perfectos.
 
-Cómo están escritos los datos.
+## 🛠️ Herramientas utilizadas ##
 
-Qué se quiere representar.
+QGIS – Modelador gráfico, procesamiento vectorial
 
-Qué variaciones existen entre fuentes.
+Excel / CSV – Limpieza y estandarización de datos
 
-Ese análisis previo es lo que permite que el modelo sea robusto, flexible y útil en contextos reales donde los datos nunca vienen perfectos.
-
-## 🛠️ Herramientas utilizadas##
-
-*QGIS – Modelador gráfico, procesamiento vectorial
-
-*Excel / CSV – Limpieza y estandarización de datos
-
-*GeoPackage – Almacenamiento de capas vectoriales
+GeoPackage – Almacenamiento de capas vectoriales
