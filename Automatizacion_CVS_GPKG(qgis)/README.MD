@@ -2,7 +2,7 @@
 
 [https://github.com/ANDYAGUIRRE10/portfolio-gis-dataanalyst/blob/main/graphmodel_example.mp4]
 
-📌 Contexto
+## 📌 Contexto ##
 
 Este proyecto surge a partir de la necesidad de georreferenciar grandes volúmenes de datos provenientes de planillas Excel utilizadas en relevamientos de infraestructura vial (alcantarillas, señalización, iluminación, etc.). Cada planilla presentaba formatos distintos, errores de tipeo, columnas con nombres inconsistentes y datos faltantes, lo que hacía imposible una automatización directa sin una etapa previa de criterio humano.
 
