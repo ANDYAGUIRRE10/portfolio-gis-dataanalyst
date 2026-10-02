@@ -6,19 +6,19 @@
 
 Este proyecto surge a partir de la necesidad de georreferenciar grandes volúmenes de datos provenientes de planillas Excel utilizadas en relevamientos de infraestructura vial (alcantarillas, señalización, iluminación, etc.). Cada planilla presentaba formatos distintos, errores de tipeo, columnas con nombres inconsistentes y datos faltantes, lo que hacía imposible una automatización directa sin una etapa previa de criterio humano.
 
-🧠 La importancia del criterio humano antes de automatizar
+## 🧠 La importancia del criterio humano antes de automatizar ##
 
 Automatizar sin entender los datos es un error común. En este proyecto, el primer paso no fue programar, sino analizar críticamente cada planilla:
 
-¿Cómo están escritas las coordenadas? (grados decimales, grados/minutos/segundos, separadores con coma o punto)
-¿Qué columnas representan realmente la ubicación? (algunas planillas tenían múltiples columnas de coordenadas, otras solo una)
-¿Qué tipo de objeto se está relevando? (alcantarilla, señal, luminaria, etc.)
-¿Qué campos son obligatorios y cuáles opcionales a nuestro interés?
-¿Qué hacer con los errores de tipeo o valores atípicos?
+- ¿Cómo están escritas las coordenadas? (grados decimales, grados/minutos/segundos, separadores con coma o punto)
+- ¿Qué columnas representan realmente la ubicación? (algunas planillas tenían múltiples columnas de coordenadas, otras solo una)
+- ¿Qué tipo de objeto se está relevando? (alcantarilla, señal, luminaria, etc.)
+- ¿Qué campos son obligatorios y cuáles opcionales a nuestro interés?
+- ¿Qué hacer con los errores de tipeo o valores atípicos?
 
 Cada ruta presentaba miles de objetos con estructuras diferentes. Un modelo automático que funcione para una planilla puede fallar en otra si no se ajusta manualmente el criterio de interpretación.
 
-⚙️ Proceso realizado
+##⚙️ Proceso realizado##
 
 Revisión manual y limpieza de datos: Análisis de la planilla original en Excel, identificación de formatos heterogéneos, corrección de errores y estandarización a un formato CSV único.
 
