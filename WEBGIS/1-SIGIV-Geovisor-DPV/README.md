@@ -52,5 +52,5 @@ en el marco de una pasantía que luego continuó como contrato en la DPV. Agrade
 Espaciales de Santa Fe)** por su colaboración.
 
 ## 👤 Autores
-Andrés Aguirre
-Adrián Contursi Reynoso — [https://www.linkedin.com/in/acontursi/]
+- Andrés Aguirre
+- Adrián Contursi Reynoso — [https://www.linkedin.com/in/acontursi/]
