@@ -17,17 +17,6 @@ Centralizar, procesar y disponibilizar información geográfica vial de la
 provincia en un visor accesible vía navegador, reemplazando flujos de 
 trabajo manuales y dispersos.
 
-## 🏗️ Arquitectura del sistema
-
-```mermaid
-flowchart TD
-    A[Relevamiento] --> B[QGIS]
-    B --> C[(PostGIS)]
-    C --> D[GeoServer]
-    D --> E[Leaflet]
-    E --> F[Usuarios DPV]
-```
-
 ## 🛠️ Stack tecnológico
 | Componente | Tecnología |
 |------------|-----------|
