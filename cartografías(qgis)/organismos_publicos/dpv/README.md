@@ -15,15 +15,13 @@ Los proyectos se presentan con fines de documentación profesional y demostraci�
 **Objetivo:** apoyar a los técnicos del área de puentes a tener una visión espacial del contexto en el que se encuentran los puentes a relevar e intervenir.
 No solo centrarse en los valores de sus características o variables, sino entender su ubicación en su conjunto como otra variable con la cual determianar el orden de importancia para su relevamiento e intervención.
 
-**Herramienta:** QGIS.
-
-**Datos utilizados:** información censada de cada puente e información pública (IGN, IDESF) descripción general de las fuentes de información, cuando puedan divulgarse.
-
 ---
 
 ### 2. Nombre del segundo mapa
 
-<!-- Incorporar la documentación del segundo mapa. -->
+![Vista previa del mapa](mapa_02.jpg)
+
+**Objetivo:** apoyar a personal del área de tránsito en la generación de cartografías y comunicación de difernetes datos.
 
 ## Consideraciones
 
