@@ -10,7 +10,7 @@ Los proyectos se presentan con fines de documentación profesional y demostraci�
 
 ### 1. Ubicación de puentes e identificación de características
 
-![Vista previa del mapa](mapa_01.pdf)
+![Vista previa del mapa](mapa_01.jpg)
 
 **Objetivo:** apoyar a los técnicos del área de puentes a tener una visión espacial del contexto en el que se encuentran los puentes a relevar e intervenir.
 No solo centrarse en los valores de sus características o variables, sino entender su ubicación en su conjunto como otra variable con la cual determianar el orden de importancia para su relevamiento e intervención.
