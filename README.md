@@ -19,4 +19,4 @@ Este portfolio reúne trabajos cartográficos, proyectos de análisis geoespacia
 
 ## 🔗 Contacto
 
-- LinkedIn: [Mi perfil de LinkedIn](www.linkedin.com/in/andrés-aguirre-32a8b01a6)
+- LinkedIn: www.linkedin.com/in/andrés-aguirre-32a8b01a6
