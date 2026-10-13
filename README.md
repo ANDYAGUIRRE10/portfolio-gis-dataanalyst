@@ -15,7 +15,7 @@ Este portfolio reúne trabajos cartográficos, proyectos de análisis geoespacia
 - Automatización de planillas CSV → puntos georreferenciados GPKG
 - Cartografías de diversas temáticas y objetivos varios para agrupaciones socio-políticas, organismos públicos e investigadores
 - Dibujos en AUTOCAD
-- Sección en desarrollo ("Agricutlura de precisión")que explora el uso de imágenes satelitales, análisis multitemporal y herramientas GIS para estudiar sistemas productivos, integrando información geográfica con antecedentes de manejo.
+- Sección en desarrollo ("Agricutlura de precisión") que explora el uso de imágenes satelitales, análisis multitemporal y herramientas GIS para estudiar sistemas productivos, integrando información geográfica con antecedentes de manejo.
 
 ## 🔗 Contacto
 
