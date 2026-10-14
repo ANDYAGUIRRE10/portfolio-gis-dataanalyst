@@ -16,6 +16,7 @@ Este portfolio reúne trabajos cartográficos, proyectos de análisis geoespacia
 - Cartografías de diversas temáticas y objetivos varios para agrupaciones socio-políticas, organismos públicos e investigadores
 - Dibujos en AUTOCAD
 - Sección en desarrollo ("Agricutlura de precisión") que explora el uso de imágenes satelitales, análisis multitemporal y herramientas GIS para estudiar sistemas productivos, integrando información geográfica con antecedentes de manejo.
+- Diversos proyectos/trabajos que demuestran el stack ecnológico que se uilizar para resolver diferentes incógnitas o necesidades geoespaciales.
 
 ## 🔗 Contacto
 
