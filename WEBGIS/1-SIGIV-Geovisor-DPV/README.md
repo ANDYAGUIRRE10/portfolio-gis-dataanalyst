@@ -49,7 +49,7 @@ desde ambos lados.
 El proyecto se organizó utilizando **Jira** como herramienta de gestión 
 de tareas, lo que me permitió:
 
-- Familiarizarme con **flujos de trabajo ágiles** (Scrum/Kanban).
+- Familiarizarme con **flujos de trabajo ágiles** (Scrum-Jira).
 - Documentar avances, incidencias y mejoras de forma estructurada.
 - Coordinar tareas técnicas con mi supervisor y el equipo de trabajo.
 - Comprender la importancia de la trazabilidad en proyectos reales 
@@ -65,8 +65,9 @@ de tareas, lo que me permitió:
 ## 📚 Aprendizajes
 - Integración de stack completo WebGIS tradicional: desde la base de datos espacial
 hasta el visor en el navegador.
+- Uso de IA como asistente de desarrollo: incorporé ChatGPT como apoyo para materializar código mientras lo estaba aprendiendo (SQL, JavaScript). Definimos la lógica, la arquitectura y los criterios; la IA ayudaba a traducirlos a código, que revisabamos y validabamos por partes antes de integrarlo. Me permitió acelerar la curva de aprendizaje sin delegar la comprensión del sistema.
 - Trabajo en equipo con mentoría: aprendí haciendo, con acompañamiento
-técnico constante, en un contexto real de producción.
+técnico constante, en un contexto real de producción y complementé ese acompañamiento con el uso de IA como asistente técnico.
 - Comunicación de datos espaciales: entender que un mapa es una herramienta para que otros tomen decisiones.
 - Curiosidad tecnológica: me apasiona descubrir nuevas tecnologías que
 hagan la visualización, comunicación y análisis de datos espaciales más
