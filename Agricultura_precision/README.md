@@ -2,8 +2,8 @@
 
 ## Sobre esta sección
 
-Esta sección reúne casos de estudio orientados al análisis geoespacial de sistemas productivos agropecuarios, utilizando imágenes satelitales, herramientas GIS e información sobre el manejo histórico de los establecimientos.
-
+Esta sección reúne casos de estudio orientados al análisis geoespacial de sistemas productivos agropecuarios, utilizando imágenes satelitales, herramientas GIS e información sobre el manejo histórico de los establecimientos. Además reúne casos trabajados en etapas de formación como cursos.
+ 
 El objetivo es explorar cómo la teledetección y el análisis espacial pueden contribuir a comprender la evolución de los sistemas productivos, identificar patrones de variabilidad dentro de los lotes y generar información útil para la toma de decisiones.
 
 La propuesta combina el análisis de imágenes satelitales con el conocimiento del productor sobre las prácticas de manejo implementadas a lo largo del tiempo.
@@ -44,7 +44,7 @@ La incorporación de estas herramientas busca avanzar hacia flujos de trabajo re
 
 ## 🔬 Casos de estudio
 
-Se prevé desarrollar dos casos con sistemas productivos y enfoques de manejo contrastantes.
+Se prevé desarrollar casos con sistemas productivos y enfoques de manejo contrastantes.
 
 ### 1. Agricultura tradicional
 
