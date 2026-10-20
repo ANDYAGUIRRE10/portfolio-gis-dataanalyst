@@ -15,9 +15,11 @@ Este portfolio reúne trabajos cartográficos, proyectos de análisis geoespacia
 - Automatización de planillas CSV → puntos georreferenciados GPKG
 - Cartografías de diversas temáticas y objetivos varios para agrupaciones socio-políticas, organismos públicos e investigadores
 - Dibujos en AUTOCAD
-- Sección en desarrollo ("Agricutlura de precisión") que explora el uso de imágenes satelitales, análisis multitemporal y herramientas GIS para estudiar sistemas productivos, integrando información geográfica con antecedentes de manejo.
+- Sección "Agricutlura de precisión" que explora el uso de imágenes satelitales, análisis multitemporal y herramientas GIS para estudiar sistemas productivos, integrando información geográfica con antecedentes de manejo.
 - Diversos proyectos/trabajos que demuestran el stack tecnológico que se utilizar para resolver diferentes incógnitas o necesidades geoespaciales.
 
 ## 🔗 Contacto
 
 - LinkedIn: www.linkedin.com/in/andrés-aguirre-32a8b01a6
+- Gmail: andresaguirregeo@gmail.com
+- Teléfono (Whats App): +54 3493 456719
