@@ -61,8 +61,7 @@ Integrar herramientas de SIG y teledetección para evaluar un lote agrícola con
 **Proceso:**
 1. Procesamiento de imágenes satelitales para calcular índices de vegetación (NDVI, etc.).
 2. Generación de **ambientes** (zonas de manejo) a partir de los datos satelitales y de rendimiento.
-3. Cálculo del **margen bruto georreferenciado** (rendimiento × precio – costos) por lote y por ambiente.
-4. Generación de cartografía temática y conclusiones sobre la rentabilidad espacial.
+3. Generación de cartografía temática y conclusiones sobre la rentabilidad espacial.
 
 ---
 
