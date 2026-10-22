@@ -1,105 +1,80 @@
-# Urban Heat Island Analysis — Santa Fe, Argentina
+# Análisis de Islas de Calor Urbanas — Santa Fe, Argentina
 
-**GIS & Data Analytics Portfolio Project | Remote Sensing | Python**
+**GIS & Data Analytics | Teledetección | Python**
 
-## Overview
+## Descripción del proyecto
 
-This project aims to investigate the spatial distribution of Land Surface Temperature (LST) and vegetation across the urban area of Santa Fe, Argentina, using freely available satellite imagery and open-source geospatial tools.
+Este proyecto busca analizar la distribución espacial de la temperatura superficial terrestre (*Land Surface Temperature*, LST) y la vegetación en el área urbana de Santa Fe, Argentina, mediante imágenes satelitales gratuitas y herramientas geoespaciales de código abierto.
 
-The analysis will focus on the relationship between surface temperature and vegetation cover, combining remote sensing, raster processing, exploratory data analysis, and thematic cartography.
+El análisis se centrará en explorar la relación entre la temperatura superficial y la cobertura vegetal, integrando técnicas de teledetección, procesamiento de datos raster, análisis exploratorio de datos y cartografía temática.
 
-The project is currently in development.
+**Estado: proyecto en desarrollo.**
 
-## Objectives
+## Objetivos
 
-- Retrieve and process satellite imagery covering Santa Fe, Argentina.
-- Estimate Land Surface Temperature (LST) from Landsat 8/9 Level-2 products.
-- Calculate the Normalized Difference Vegetation Index (NDVI).
-- Explore the spatial relationship between surface temperature and vegetation.
-- Generate descriptive statistics, tables, and visualizations using Python.
-- Produce thematic maps and communicate the results through GIS outputs.
+- Obtener y procesar imágenes satelitales del área de estudio.
+- Estimar la temperatura superficial terrestre (LST) a partir de productos Landsat 8 y 9.
+- Calcular el Índice de Vegetación de Diferencia Normalizada (NDVI).
+- Explorar la relación espacial entre la temperatura superficial y la vegetación.
+- Generar estadísticas descriptivas, tablas y visualizaciones mediante Python.
+- Elaborar cartografías temáticas y comunicar los resultados mediante productos GIS.
 
-## Data Sources
+## Fuentes de datos
 
-- **Landsat 8 and Landsat 9 — Collection 2 Level-2:** surface temperature and surface reflectance products.
-- **USGS EarthExplorer:** satellite imagery discovery and download.
-- **Supporting geospatial data:** urban boundaries and other reference layers, depending on availability and suitability.
+- **Landsat 8 y Landsat 9 — Collection 2 Level-2:** productos de temperatura superficial y reflectancia superficial.
+- **USGS EarthExplorer:** búsqueda y descarga de imágenes satelitales.
+- **Datos geográficos complementarios:** límites urbanos y otras capas de referencia, según su disponibilidad y adecuación al análisis.
 
-Data selection will consider acquisition dates, cloud cover, spatial coverage, and quality flags.
+La selección de imágenes tendrá en cuenta las fechas de adquisición, la nubosidad, la cobertura espacial y los indicadores de calidad de los datos.
 
-## Technology Stack
+## Tecnologías y herramientas
 
-| Technology | Purpose |
+| Tecnología | Aplicación |
 |---|---|
-| Python | Geospatial processing and analysis automation |
-| Rasterio | Raster data access and processing |
-| NumPy | Numerical and raster calculations |
-| Pandas | Tabular data management and statistical analysis |
-| GeoPandas | Vector data processing and spatial analysis |
-| Matplotlib | Statistical charts and visualizations |
-| QGIS | Thematic cartography and map production |
-| Git & GitHub | Version control and project documentation |
+| Python | Procesamiento geoespacial y automatización del análisis |
+| Rasterio | Lectura y procesamiento de datos raster |
+| NumPy | Cálculos numéricos y operaciones sobre píxeles |
+| Pandas | Gestión de tablas y análisis estadístico |
+| GeoPandas | Procesamiento vectorial y análisis espacial |
+| Matplotlib | Gráficos estadísticos y visualizaciones |
+| QGIS | Elaboración de cartografía temática |
+| Git y GitHub | Control de versiones y documentación del proyecto |
 
-## Methodology
+## Metodología de trabajo
 
-The planned workflow consists of the following stages:
+El flujo de trabajo previsto comprende las siguientes etapas:
 
-1. **Data acquisition:** download suitable Landsat scenes and supporting geographic data.
-2. **Quality control:** inspect metadata, cloud masks, valid pixels, and spatial coverage.
-3. **Raster processing:** apply the appropriate scale factors and quality masks to satellite bands.
-4. **Indicator calculation:** derive LST in degrees Celsius and calculate NDVI from surface reflectance.
-5. **Exploratory data analysis:** summarize distributions, calculate descriptive statistics, and examine the relationship between LST and NDVI.
-6. **Cartographic production:** create thematic maps in QGIS.
-7. **Documentation:** publish the methodology, scripts, selected outputs, and limitations.
+1. **Obtención de datos:** descarga de escenas Landsat adecuadas y de información geográfica complementaria.
+2. **Control de calidad:** revisión de metadatos, máscaras de nubes, píxeles válidos y cobertura espacial.
+3. **Procesamiento raster:** aplicación de factores de escala y máscaras de calidad a las bandas satelitales.
+4. **Cálculo de indicadores:** obtención de la temperatura superficial en grados Celsius y cálculo del NDVI a partir de la reflectancia superficial.
+5. **Análisis exploratorio de datos:** cálculo de estadísticas descriptivas, análisis de distribuciones y exploración de la relación entre LST y NDVI.
+6. **Producción cartográfica:** elaboración de mapas temáticos mediante QGIS.
+7. **Documentación:** publicación de la metodología, los scripts, los resultados seleccionados y las limitaciones del análisis.
 
-## Planned Outputs
+## Productos previstos
 
-- Land Surface Temperature raster and thematic map.
-- NDVI raster and vegetation distribution map.
-- Descriptive statistics and summary tables in CSV format.
-- Statistical charts and visualizations.
-- A reproducible Python workflow.
-- A QGIS project containing the final cartographic outputs.
+- Raster y mapa temático de temperatura superficial terrestre.
+- Raster y mapa de distribución de la vegetación mediante NDVI.
+- Tablas de estadísticas descriptivas en formato CSV.
+- Gráficos y visualizaciones estadísticas.
+- Flujo de procesamiento reproducible en Python.
+- Proyecto QGIS con los productos cartográficos finales.
 
-## Project Structure
+## Consideraciones analíticas
 
-```text
-urban-heat-island-santa-fe/
-├── README.md
-├── environment.yml
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── reference/
-├── notebooks/
-├── scripts/
-├── qgis/
-├── outputs/
-│   ├── maps/
-│   ├── figures/
-│   └── tables/
-└── docs/
-```
+La temperatura superficial terrestre representa la temperatura radiométrica de la superficie, no la temperatura del aire medida cerca del suelo.
 
-## Analytical Considerations
+Los datos térmicos de Landsat tienen una resolución espacial nativa más gruesa que la cuadrícula de 30 m en la que se distribuye habitualmente el producto. El remuestreo no genera nuevas observaciones térmicas independientes.
 
-Land Surface Temperature represents the radiometric temperature of the Earth's surface, not near-surface air temperature.
+La relación entre NDVI y LST se examinará estadísticamente, sin asumir que una correlación demuestra por sí sola una relación causal.
 
-Landsat thermal data have a coarser native spatial resolution than their standard delivered grid may suggest. Resampling does not create additional independent thermal observations.
+También se considerarán la presencia de nubes y sombras, las fechas de adquisición, las condiciones estacionales y la delimitación del área de estudio al interpretar los resultados.
 
-The relationship between NDVI and LST will be examined statistically without assuming that correlation alone establishes causation.
+## Estado del proyecto
 
-Clouds, shadows, acquisition dates, seasonal conditions, and the selection of the study area will be considered when interpreting results.
+**En desarrollo — obtención de datos y preparación del flujo de trabajo.**
 
-## Project Status
+Los análisis, los resultados estadísticos y los mapas finales se incorporarán a medida que avance el proyecto.
 
-**In progress — data acquisition and workflow development.**
-
-The analyses, statistical results, and final maps will be added as the project advances.
-
-## Author
-
-**Andrés Aguirre**  
-Geographer | GIS & Remote Sensing | Spatial Data Analysis
-
-This project is part of my GIS and Data Analytics portfolio, focused on applying geospatial technologies and reproducible analytical workflows to territorial and environmental questions.
+Este proyecto forma parte de mi portfolio GIS y Data Analytics y busca aplicar tecnologías geoespaciales y metodologías reproducibles al análisis de problemáticas territoriales y ambientales.
