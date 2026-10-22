@@ -1,4 +1,4 @@
-# 🛰️ Curso CONAE – Herramientas avanzadas para la teledetección de recursos agrícolas y forestales
+# 🛰️ Curso: Herramientas avanzadas para la teledetección de recursos agrícolas y forestales
 
 ### Descripción
 
