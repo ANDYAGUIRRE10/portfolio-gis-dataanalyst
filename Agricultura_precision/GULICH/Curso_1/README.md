@@ -1,37 +1,40 @@
-# Herramientas geomáticas aplicadas a la producción agropecuaria
+# Curso: Herramientas geomáticas aplicadas a la producción agropecuaria
 
-## Sobre el curso
+## 📌 Contexto
 
-Este espacio reúne el trabajo final integrador realizado en el marco del curso **Herramientas geomáticas aplicadas a la producción agropecuaria (2025)**, vinculado con la formación en geomática y sus aplicaciones al análisis de sistemas productivos.
+Esta carpeta reúne el trabajo final del curso **"Herramientas geomáticas aplicadas a la producción agropecuaria"**, 
+orientado a la aplicación de tecnologías de la información geográfica, teledetección y geomática en el sector agropecuario.
 
-La actividad permitió explorar la aplicación de herramientas geoespaciales y de teledetección a problemáticas agropecuarias, integrando imágenes satelitales, procesamiento de información geográfica e interpretación de resultados.
+El curso abordó desde los fundamentos de la geomática y la agricultura de precisión hasta aplicaciones concretas en fertilización, 
+estrés hídrico, ganadería y monitoreo satelital, con un enfoque práctico y orientado a la resolución de problemas complejos.
 
-## Trabajo final integrador
+---
 
-El archivo presentado corresponde a un trabajo grupal que reúne explicaciones metodológicas, imágenes y resultados relacionados con aplicaciones de la agricultura de precisión.
+## 🎯 Objetivos del curso
 
-El documento permite visualizar un ejemplo de aplicación de herramientas geomáticas para analizar información de interés agropecuario, incluyendo la elaboración de índices a partir de imágenes satelitales.
+- Conocer conceptos teóricos y prácticos que permitan **diseñar y llevar a cabo planes de diagnóstico y monitoreo agropecuario** mediante el uso de la geomática.
+- Utilizar **herramientas estadísticas y de geoprocesamiento** para analizar datos satelitales de diferentes sensores relacionados con las principales problemáticas en la producción agropecuaria.
+- Identificar **problemas complejos del campo disciplinar** con foco en la ganadería y la fertilización.
 
-## Temáticas abordadas
+---
 
-- Aplicación de herramientas geomáticas a la producción agropecuaria.
-- Teledetección y análisis de imágenes satelitales.
-- Elaboración e interpretación de índices espectrales.
-- Agricultura de precisión y análisis de información espacial.
-- Representación visual e interpretación de resultados.
+## 🛠️ Habilidades y herramientas trabajadas
 
-*Las temáticas y los procedimientos específicos se detallan en el documento final.*
+- **Geomática** aplicada a la producción agropecuaria.
+- **Agricultura de precisión**: dosis variable, zonas de manejo, mapas de rendimiento.
+- **Teledetección**: análisis de datos satelitales de diferentes sensores.
+- **Google Earth Engine** para procesamiento de imágenes satelitales.
+- **Tecnologías de monitoreo y muestreo**: GNSS, SIG móvil, sensores de suelo y rendimiento.
+- **Estadística y geoprocesamiento** para el análisis de datos agropecuarios.
 
-## Material disponible
+---
 
-- **Trabajo final integrador (PDF):** documento grupal con explicaciones, imágenes y resultados del ejercicio aplicado.
+## 💡 Aprendizajes destacados
 
-## Objetivo de esta publicación
-
-Documentar una experiencia de formación aplicada y mostrar cómo las herramientas de teledetección y análisis geoespacial pueden utilizarse para abordar problemáticas vinculadas con la producción agropecuaria.
-
-Este trabajo forma parte de mi recorrido de formación y desarrollo profesional en GIS, teledetección y análisis territorial.
-
+- **Integración de datos de múltiples fuentes:** combinar información satelital, de sensores de suelo, de rendimiento y de posicionamiento GNSS para tomar decisiones de manejo.
+- **Análisis de problemas complejos:** aplicar herramientas geomáticas a desafíos reales del agro, como la fertilización variable o la evaluación de oferta forrajera.
+- **Trabajo en equipo:** desarrollo del trabajo final en grupo, integrando saberes de todas las unidades del curso.
+- **Enfoque práctico:** todos los contenidos se aplicaron a casos concretos, lo que permitió vincular la teoría con la realidad productiva.
 ---
 
 **Área:** Geomática · Teledetección · Agricultura de precisión.
