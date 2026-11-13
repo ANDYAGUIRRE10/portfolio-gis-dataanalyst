@@ -23,16 +23,6 @@ Esta carpeta reúne capturas de pantalla de **dashboards y visualizaciones de da
 
 ---
 
-## 📁 Contenido de esta carpeta
-
-*(A medida que suba las capturas, se irán detallando aquí)*
-
-- `imagen_01.png` – Descripción breve del tablero.
-- `imagen_02.png` – Descripción breve del tablero.
-- ...
-
----
-
 ## 📎 Notas
 
 - No se incluyen los archivos fuente ni los datos originales por cuestiones de confidencialidad.
